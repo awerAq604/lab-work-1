@@ -1,8 +1,7 @@
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
-// Задание 1: индекс массы тела (BMI)
+// Г‡Г Г¤Г Г­ГЁГҐ 1: ГЁГ­Г¤ГҐГЄГ± Г¬Г Г±Г±Г» ГІГҐГ«Г  (BMI)
 void task1()
 {
     float m = 0.0f, h = 0.0f, BMI = 0.0f;
@@ -21,7 +20,7 @@ void task1()
     }
 }
 
-// Задание 8.2: max и min через цепочку if / else if
+// Г‡Г Г¤Г Г­ГЁГҐ 8.2: max ГЁ min Г·ГҐГ°ГҐГ§ Г¶ГҐГЇГ®Г·ГЄГі if / else if
 void task2()
 {
     float a = 0.0f, b = 0.0f, c = 0.0f;
