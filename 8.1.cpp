@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Çàäàíèå 1: èíäåêñ ìàññû òåëà (BMI)
+
 void task1()
 {
     float m = 0.0f, h = 0.0f, BMI = 0.0f;
@@ -20,7 +20,7 @@ void task1()
     }
 }
 
-// Çàäàíèå 8.2: max è min ÷åðåç öåïî÷êó if / else if
+
 void task2()
 {
     float a = 0.0f, b = 0.0f, c = 0.0f;
